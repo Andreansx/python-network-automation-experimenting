@@ -2,6 +2,7 @@
 <h1>Hi, welcome to my Python playground</h1>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![VSCodium](https://img.shields.io/badge/VScodium-2F80ED?style=for-the-badge&logo=vscodium&logoColor=white)
 <!--![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Netmiko](https://img.shields.io/badge/Netmiko-1F425F?style=for-the-badge&logo=python&logoColor=white)
 ![Nornir](https://img.shields.io/badge/Nornir-00599C?style=for-the-badge&logo=python&logoColor=white)
